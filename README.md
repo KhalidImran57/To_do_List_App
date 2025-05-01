@@ -1,16 +1,33 @@
-# to_do_list_app
+# 📝 To-Do List App – Flutter Task Manager 📱
 
-A new Flutter project.
+A simple and elegant To-Do List App built using **Flutter**. Manage your daily tasks efficiently with a minimal UI and smooth performance.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add new tasks
+- ✅ Mark tasks as complete/incomplete
+- 🗑️ Delete tasks
+- 💾 Local data storage
+- 🎨 Clean and user-friendly interface
+- 📱 Fully responsive on all screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/eed3bae7-e02a-4bf3-a0fc-eb2e8acee74b)" alt="Screenshot 1" height="500" style="margin-right: 15px;" />
+  <img src="https://github.com/KhalidImran57/To_do_List_App/blob/main/s2.PNG?raw=true" alt="Screenshot 2" height="500" style="margin-right: 15px;" />
+  <img src="https://github.com/KhalidImran57/To_do_List_App/blob/main/s3.PNG?raw=true" alt="Screenshot 3" height="500" />
+</p>
+
+---
+
+## 🛠️ How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/todo_app.git
+   cd todo_app
