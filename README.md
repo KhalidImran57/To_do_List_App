@@ -18,7 +18,7 @@ A simple and elegant To-Do List App built using **Flutter**. Manage your daily t
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/eed3bae7-e02a-4bf3-a0fc-eb2e8acee74b)" alt="Screenshot 1" height="500" style="margin-right: 15px;" />
+  <img src="https://github.com/KhalidImran57/To_do_List_App/blob/main/s1.PNG?raw=true" alt="Screenshot 1" height="500" style="margin-right: 15px;" />
   <img src="https://github.com/KhalidImran57/To_do_List_App/blob/main/s2.PNG?raw=true" alt="Screenshot 2" height="500" style="margin-right: 15px;" />
   <img src="https://github.com/KhalidImran57/To_do_List_App/blob/main/s3.PNG?raw=true" alt="Screenshot 3" height="500" />
 </p>
